@@ -1,6 +1,6 @@
 # Getting Started with Syncfusion Vue 3 Scheduler
 
-A comprehensive guide to integrating the Syncfusion Vue Scheduler component into Vue 3 applications. This project demonstrates essential setup steps including package installation, CSS imports, component registration, and event data binding for building powerful scheduling solutions.
+A comprehensive guide to integrating the [Vue Scheduler](https://www.syncfusion.com/vue-components/vue-scheduler) component into Vue 3 applications. This project demonstrates essential setup steps including package installation, CSS imports, component registration, and event data binding for building powerful scheduling solutions.
 
 ## Installation
 
